@@ -562,18 +562,7 @@ for i in range(len(store_and_code_pair)):
     print(row_sums.loc[('Predicted Sales', 'KORU SİTESİ ANKARA MMM MİGROS', 'QUEEN ECHEVERIA Q5,5')])
 ############total sales of mini kalanchoes in stores##############
 #####################All the mini Kalanchoes###################
-'''
-YILA TAŞINMAMASI GEREKEN ÜRÜNLER
--Campanula(week3-week18)
--Euphorbia MİLİ(WEEK2-WEEK51)
--EUPHORBİA 21CM(WEEK23-WEEK35)
--Hibiscus 10.5(week9-week18)
--Hibiscus 21(week23-week35)
--Kalanchoe 21(week 23-35)
--POINSETTIA (Week 42-52)
--gül(week2-week18, week40-endofyear)
--schlumbergera(week43-week52)
-'''
+
 
 ###############################################################################
 for j, item in enumerate(flowers):
